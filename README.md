@@ -18,4 +18,4 @@ This project uses Deep Learning and Machine Learning to:
 
 ## Project Status
 - ✅ Phase 1 Completed
-- ⏳ Phase 2 In Progress
+- ✅ Phase 2 Done
