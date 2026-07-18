@@ -123,13 +123,6 @@ streamlit run app/app.py
 
 ---
 
-## 🖥️ App Screenshots
-
-The app provides a dark, responsive dashboard for scanning food images, reviewing prediction confidence, viewing macro-nutrient breakdowns, and monitoring daily goals.
-
-> Add screenshots to a `screenshots/` directory and link them here to showcase the dashboard and prediction results.
-
----
 
 ## 🔮 Future Improvements
 
